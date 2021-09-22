@@ -1,0 +1,22 @@
+{
+  "name": "Teste",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.8.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "nodemailer": "^6.6.3",
+    "nodemon": "^2.0.12",
+    "qr-image": "^3.2.0",
+    "qrcode": "^1.4.4"
+  }
+}
